@@ -98,6 +98,7 @@ public class Home extends Activity implements View.OnClickListener {
 
                 @Override
                 public void onStart() {
+                    outputLayout = (LinearLayout) findViewById(R.id.command_output);
                     outputLayout.removeAllViews();
 
                     Log.d(TAG, "Started command : ffmpeg " + command);
@@ -143,6 +144,7 @@ public class Home extends Activity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.run_command:
+                commandEditText = (EditText) findViewById(R.id.command);
                 String cmd = commandEditText.getText().toString();
                 String[] command = cmd.split(" ");
                 if (command.length != 0) {

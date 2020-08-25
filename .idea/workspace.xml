@@ -6,143 +6,24 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="ffmpeg" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2a72ca-8b1a-4be2-a813-da36f68501e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_20_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_assertj_assertj_android_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_dagger_dagger_1_2_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_1_6_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/FFmpegAndroid/FFmpegAndroid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ffmpeg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/jni/Android.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/jni/Application.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/jni/armArch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/arm64-v8a/libffmpeg.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/armeabi-v7a/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/armeabi-v7a/libffmpeg.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/armeabi/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/armeabi/libffmpeg.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/x86/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/x86/libffmpeg.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/libs/x86_64/libffmpeg.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/libcpufeatures.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/objs/ARM_ARCH/armArch.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/objs/ARM_ARCH/armArch.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/libcpufeatures.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/objs/ARM_ARCH/armArch.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/objs/ARM_ARCH/armArch.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/objs/cpufeatures/cpu-features.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/armeabi/objs/cpufeatures/cpu-features.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/libARM_ARCH.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/libcpufeatures.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/objs/ARM_ARCH/armArch.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/objs/ARM_ARCH/armArch.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/objs/cpufeatures/cpu-features.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/obj/local/x86/objs/cpufeatures/cpu-features.o.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/CommonInstrumentationTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/CommonTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/CpuArchHelperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/CpuArchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/LogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/ShellCommandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/UtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/utils/AssertionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/utils/StubInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/androidTest/java/com/github/hiteshsondhi88/libffmpeg/utils/StubOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/ArmArchHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CommandResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArchHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/ExecuteBinaryResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpegExecuteAsyncTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpegExecuteResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpegInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpegLoadBinaryResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpegLoadLibraryAsyncTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/LoadBinaryResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/ResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/ShellCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/exceptions/FFmpegCommandAlreadyRunningException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/exceptions/FFmpegNotSupportedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.GPLv3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/sample_srt/sample.srt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/sample_videos/sample_1.mkv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/sample_videos/sample_2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/sample_videos/sample_3.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/github/hiteshsondhi88/sampleffmpeg/FFmpegInstrumentationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/github/hiteshsondhi88/sampleffmpeg/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/github/hiteshsondhi88/sampleffmpeg/DaggerDependencyModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/github/hiteshsondhi88/sampleffmpeg/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runTests.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait_for_emulator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArch.java" beforeDir="false" afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArchHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/CpuArchHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/FFmpegAndroid/src/main/java/com/github/hiteshsondhi88/libffmpeg/FFmpeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/github/hiteshsondhi88/sampleffmpeg/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/hiteshsondhi88/sampleffmpeg/Home.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,21 +141,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="253" key="GridCell.Tab.0.bottom" timestamp="1598355585722">
+    <state width="1638" height="485" key="GridCell.Tab.0.bottom" timestamp="1598356358727">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1598355585722" />
-    <state width="1638" height="253" key="GridCell.Tab.0.center" timestamp="1598355585721">
+    <state width="1638" height="485" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1598356358727" />
+    <state width="1638" height="485" key="GridCell.Tab.0.center" timestamp="1598356358723">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1598355585721" />
-    <state width="1638" height="253" key="GridCell.Tab.0.left" timestamp="1598355585721">
+    <state width="1638" height="485" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1598356358723" />
+    <state width="1638" height="485" key="GridCell.Tab.0.left" timestamp="1598356358721">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1598355585721" />
-    <state width="1638" height="253" key="GridCell.Tab.0.right" timestamp="1598355585722">
+    <state width="1638" height="485" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1598356358721" />
+    <state width="1638" height="485" key="GridCell.Tab.0.right" timestamp="1598356358726">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1598355585722" />
+    <state width="1638" height="485" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1598356358726" />
   </component>
 </project>
